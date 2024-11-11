@@ -8,6 +8,12 @@
 - 😄 Pronouns: HE/HIM.
 - ⚡ Fun fact: I'll do it for fun. not for money.
 
+
+## 📃 Resume CV File
+
+[!Download](https://github.com/Re9iNee/Re9iNee/blob/master/Front%20Dev-Reza%20Attarzadeh.pdf)
+
+
 ## ⚡ Technologies
 
 <a href="https://nextjs.org/" target="_blank"> <img align="left" alt="nextjs" height ="42px"  src="https://raw.githubusercontent.com/Re9iNee/Re9iNee/refs/heads/master/nextjs-icon-svgrepo-com.svg"> </a>
