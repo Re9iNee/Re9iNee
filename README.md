@@ -9,9 +9,9 @@
 - ⚡ Fun fact: I'll do it for fun. not for money.
 
 
-## 📃 Resume CV File
+## 📃 Resume & CV File
 
-[!Download](https://github.com/Re9iNee/Re9iNee/blob/master/Front%20Dev-Reza%20Attarzadeh.pdf)
+[Download](https://github.com/Re9iNee/Re9iNee/blob/master/Front%20Dev-Reza%20Attarzadeh.pdf)
 
 
 ## ⚡ Technologies
