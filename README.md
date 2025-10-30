@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-<!-- - 🔭 I’m currently working on AI Project.
-- 🌱 I’m currently learning DevOps. -->
-- 👯 I’m looking to collaborate on Full stack projects using NextJS and NodeJS.
-- 💬 Ask me about anything, we'll figure out together.
 - 📫 How to reach me: attarzadeh76@gmail.com
 - 😄 Pronouns: HE/HIM.
-- ⚡ Fun fact: I'll do it for fun. not for money.
 
 
 ## 📃 Resume & CV File
