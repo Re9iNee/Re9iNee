@@ -19,6 +19,3 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSCode" height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
 <br>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re9inee&layout=compact&theme=dark)](https://github.com/re9inee/github-readme-stats)
-<img style="height:165px" src="https://github-readme-stats.vercel.app/api?username=re9inee&show_icons=true&theme=gotham" alt="re9ineee readme stats" />
